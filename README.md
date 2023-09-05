@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Kelvem , e sou um desenvolvedor Fullstack Junior apaixonado por tecnologia e programação. Tenho experiência com Python, JavaScript, HTML, CSS, e sou especializado em desenvolvimento web usando o framework Django.
+Olá! Meu nome é Kelvem , e sou um desenvolvedor Fullstack apaixonado por tecnologia e programação. Tenho experiência com Python, JavaScript, HTML, CSS, e sou especializado em desenvolvimento web usando o framework Django e NodeJS.
 
 ## Habilidades
 
@@ -37,4 +37,4 @@ Meu objetivo é continuar aprimorando minhas habilidades em Django e desenvolvim
 ## Como entrar em contato
 
 Se você tiver interesse em me conhecer melhor ou tiver alguma oportunidade de trabalho ou projeto relacionado ao desenvolvimento web com Python e Django, sinta-se à vontade para entrar em contato pelo seguinte email: kelvemdasilva16@gmail.com
-Estou animado para contribuir em projetos desafiadores e continuar crescendo como desenvolvedor Fullstack Junior! Obrigado por ler este README.
+Estou animado para contribuir em projetos desafiadores e continuar crescendo como desenvolvedor Fullstack ! Obrigado por ler este README.
