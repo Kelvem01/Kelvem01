@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Kelvem e sou um desenvolvedor Fullstack apaixonado por tecnologia e programação. Tenho experiência com Python, JavaScript, HTML, CSS e sou especializado em desenvolvimento web usando os frameworks Django e NodeJS.
+Olá! Meu nome é Kelvem e sou um desenvolvedor Fullstack apaixonado por tecnologia e programação. Tenho experiência com Python, JavaScript, HTML, CSS e sou estdante de  desenvolvimento web usando os frameworks Django e NodeJS.
 
 ## Habilidades
 
